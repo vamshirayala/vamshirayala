@@ -16,10 +16,10 @@ With strong critical thinking and problem-solving skills, I am a quick learner a
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-0578CB?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /></a>
+    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /></a>
+    <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/-Metasploit-0578CB?&style=for-the-badge&logo=Metasploit&logoColor=white" /></a>
 </div>
 
 ## Certifications
