@@ -24,7 +24,7 @@ With strong critical thinking and problem-solving skills, I am a quick learner a
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity_by_ISC2-4D4D4D?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CC-4D4D4D?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ## Projects
