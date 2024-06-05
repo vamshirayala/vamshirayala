@@ -10,8 +10,8 @@ With strong critical thinking and problem-solving skills, I am a quick learner a
 
 | Skill                                         | Associated Project                       |
 |-----------------------------------------------|------------------------------------------|
-| Machine Learning                              | Bicep Curl Counter using Computer Vision |
-| Image Recognition                             | Bicep Curl Counter using Computer Vision |
+| Machine Learning                              | <a href="https://github.com/vamshirayala/Bicep-Curl-Counter-using-Computer-Vision">Bicep Curl Counter using Computer Vision</a> |
+| Image Recognition                             | <a href="https://github.com/vamshirayala/Bicep-Curl-Counter-using-Computer-Vision">Bicep Curl Counter using Computer Vision</a> |
 ## Tools
 
 ### Network
@@ -28,4 +28,4 @@ With strong critical thinking and problem-solving skills, I am a quick learner a
 </div>
 
 ## Projects
-- Bicep Curl Counter using Computer Vision
+- <a href="https://github.com/vamshirayala/Bicep-Curl-Counter-using-Computer-Vision">Bicep Curl Counter using Computer Vision</a>
