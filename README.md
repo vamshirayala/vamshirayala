@@ -14,7 +14,6 @@ With strong critical thinking and problem-solving skills, I am a quick learner a
 | Image Recognition                             | <a href="https://github.com/vamshirayala/Bicep-Curl-Counter-using-Computer-Vision">Bicep Curl Counter using Computer Vision</a> |
 ## Tools
 
-### Network
 <div>
     <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
     <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /></a>
@@ -29,3 +28,6 @@ With strong critical thinking and problem-solving skills, I am a quick learner a
 
 ## Projects
 - <a href="https://github.com/vamshirayala/Bicep-Curl-Counter-using-Computer-Vision">Bicep Curl Counter using Computer Vision</a>
+
+## Resume
+- Click <a href="https://drive.google.com/file/d/1HTpmyvoW5Op1hmcpR2hzg2_yCyupb96P/view?usp=sharing"> here </a>
