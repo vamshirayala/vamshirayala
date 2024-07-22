@@ -28,6 +28,3 @@ With strong critical thinking and problem-solving skills, I am a quick learner a
 
 ## Projects
 - <a href="https://github.com/vamshirayala/Bicep-Curl-Counter-using-Computer-Vision">Bicep Curl Counter using Computer Vision</a>
-
-## Resume
-- Click <a href="https://drive.google.com/file/d/1HTpmyvoW5Op1hmcpR2hzg2_yCyupb96P/view?usp=sharing"> here </a>
