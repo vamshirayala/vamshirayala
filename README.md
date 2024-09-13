@@ -1,7 +1,7 @@
 # Hello, I'm Vamshi Rayala
 <a href="https://linkedin.com/in/vamshi-rayala"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently pursuing a Bachelor of Engineering in Computer Science (6th semester). My passion lies in protecting information systems and data, identifying vulnerabilities before threat actors can exploit them, and ensuring the security and integrity of digital environments.
+I am currently pursuing a Bachelor of Engineering in Computer Science (7th semester). My passion lies in protecting information systems and data, identifying vulnerabilities before threat actors can exploit them, and ensuring the security and integrity of digital environments.
 
 ## Objective
 With strong critical thinking and problem-solving skills, I am a quick learner and highly motivated to gain practical experience in the dynamic field of cybersecurity. My goal is to apply my knowledge and skills in a practical setting, ideally in a role focused on identifying and mitigating security threats, where I can contribute to defending against cyber threats and safeguarding critical information assets.
